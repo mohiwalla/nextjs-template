@@ -50,3 +50,7 @@ label,
 button {
 	@apply select-none;
 }
+
+label {
+	@apply cursor-pointer;
+}
